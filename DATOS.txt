@@ -3,3 +3,11 @@ Edad: 22
 Teléfono: 0994298601
 Cédula: 1719705939
 Color Favorito: Negro
+
+
+----------------- Mayor información
+
+Nombre del Padre: Carlos Julio Torres
+Nombre de la Madre: Gladis MEladia Leyva
+N° Hermanos: 2
+Estado Civil: Soltero
