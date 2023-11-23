@@ -1,0 +1,5 @@
+Nombre: Carlos Andres Torres Leyva
+Edad: 22
+Teléfono: 0994298601
+Cédula: 1719705939
+Color Favorito: Negro
